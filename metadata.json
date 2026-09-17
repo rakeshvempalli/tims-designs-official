@@ -1,0 +1,6 @@
+{
+  "name": "TIMS DESIGNS",
+  "description": "Premier Architecture, Building Plans, Construction & Interior Design in HSR Layout, Bengaluru",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
